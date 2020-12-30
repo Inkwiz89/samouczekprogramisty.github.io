@@ -45,7 +45,7 @@ boolean hasBlueEyes = false;
 
 - `int` – typ przechowujący liczby całkowite. Liczby te możesz zapisać na wiele sposobów, skupię się na najprostszym – ciąg cyfr (opcjonalnie poprzedzony znakiem). Ten typ może nam posłużyć do przechowywania informacji o aktualnej temperaturze, wzroście, odległości z miasta A do B itp.
 
-Tutaj muszę też powiedzieć o pewnych ograniczeniach. `int` podobnie jak każda inna wartość reprezentowana jest w pamięci komputera. Każda z wartości zajmuje określony rozmiar pamięci. Przez to ograniczenie nie jesteśmy w stanie przechowywać wszystkich liczb w zmiennej. W przypadku Javy w zmiennej typu `int` możemy przechowywać liczby od -2 147 483 648 do 2 147 483 647. Jak widzisz są do dość duże liczby jednak do pewnych zastosowań potrzebujemy innych typów danych.
+Tutaj muszę też powiedzieć o pewnych ograniczeniach. `int` podobnie jak każda inna wartość reprezentowana jest w pamięci komputera. Każda z wartości zajmuje określony rozmiar pamięci. Przez to ograniczenie nie jesteśmy w stanie przechowywać wszystkich liczb w zmiennej. W przypadku Javy w zmiennej typu `int` możemy przechowywać liczby od -2 147 483 648 do 2 147 483 647. Jak widzisz są to dość duże liczby jednak do pewnych zastosowań potrzebujemy innych typów danych.
 
 ```java
 int temperature = -12;
